@@ -3,7 +3,8 @@ package ru.job4j;
 public class Calculate{
 	
 	public static void main(String [] args){
-		System.out.println("Hello word!");
+		String s = "Hello word!"
+		System.out.println(s);
 }
 }
 
